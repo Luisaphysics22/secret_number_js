@@ -21,6 +21,6 @@ The objective of the game is for the user to guess what the secret number is.
 
 ## Deploy ☁️💻
    
-[Play here!🕹️]()
+[Play here!🕹️](https://secret-number-js-plum.vercel.app/)
 
 
